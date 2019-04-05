@@ -1,0 +1,19 @@
+# Hashes of file build rules.
+bdb1b82dde1c7b5d6e360e5d6bb05cee CMakeFiles/glfw
+b574bdb529a2ed1bb7ba04b5db9ea788 CMakeFiles/glfw-complete
+bdb1b82dde1c7b5d6e360e5d6bb05cee CMakeFiles/glm
+fbfb80717519f150be67afb7016f1359 CMakeFiles/glm-complete
+d231011ac97d9539061435285f2cd03c glfw/src/glfw-stamp/glfw-build
+94529fcec0ffd8213e374850bdd9c1ec glfw/src/glfw-stamp/glfw-configure
+0f731207901c7219700e5584440e17cc glfw/src/glfw-stamp/glfw-download
+fc0cb8cf5194f0512a27a0cfa0dc6544 glfw/src/glfw-stamp/glfw-install
+9549954c68e06415ab59fb24536040a6 glfw/src/glfw-stamp/glfw-mkdir
+090b61cbbacaffc06cb0871ab79539c0 glfw/src/glfw-stamp/glfw-patch
+b8a57975e49804aacf24d2fb49686d05 glfw/src/glfw-stamp/glfw-update
+c87abcc088a74410f76353c171f62a79 glm/src/glm-stamp/glm-build
+0beb2f6a99ee85408fefd77ee81cdce7 glm/src/glm-stamp/glm-configure
+190db1cb030749154627e7109f440ed3 glm/src/glm-stamp/glm-download
+90099e895f2ba9919d72ee97c09ab201 glm/src/glm-stamp/glm-install
+998b7cd6d71210b3c8a2ab3ed02c5a5c glm/src/glm-stamp/glm-mkdir
+0ac6b0b4f429eede4ef9dda8f458b2e6 glm/src/glm-stamp/glm-patch
+b2655219ff4fb7ea4c27617fa6f712ee glm/src/glm-stamp/glm-update

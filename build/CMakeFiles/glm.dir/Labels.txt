@@ -1,0 +1,13 @@
+# Target labels
+ glm
+# Source files and their labels
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/glm
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/glm.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/glm-complete.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glm/src/glm-stamp/glm-install.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glm/src/glm-stamp/glm-mkdir.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glm/src/glm-stamp/glm-download.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glm/src/glm-stamp/glm-update.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glm/src/glm-stamp/glm-patch.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glm/src/glm-stamp/glm-configure.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glm/src/glm-stamp/glm-build.rule

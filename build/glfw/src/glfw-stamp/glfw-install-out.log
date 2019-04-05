@@ -1,0 +1,12 @@
+[100%] Built target glfw
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/include/GLFW
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/include/GLFW/glfw3.h
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/include/GLFW/glfw3native.h
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Config.cmake
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Targets.cmake
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/lib/cmake/glfw3/glfw3Targets-release.cmake
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/lib/pkgconfig/glfw3.pc
+-- Installing: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/lib/libglfw3.a

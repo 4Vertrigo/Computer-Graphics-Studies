@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_20764/fast"
+make[3]: Entering directory '/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_20764.dir/build.make CMakeFiles/cmTC_20764.dir/build
+make[4]: Entering directory '/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_20764.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_20764.dir/CheckSymbolExists.c.o   -c /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_20764
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_20764.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_20764.dir/CheckSymbolExists.c.o  -o cmTC_20764 
+/usr/bin/ld: CMakeFiles/cmTC_20764.dir/CheckSymbolExists.c.o: in function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[4]: *** [CMakeFiles/cmTC_20764.dir/build.make:87: cmTC_20764] Error 1
+make[4]: Leaving directory '/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_20764/fast] Error 2
+make[3]: Leaving directory '/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+
+File /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8133e/fast"
+make[3]: Entering directory '/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8133e.dir/build.make CMakeFiles/cmTC_8133e.dir/build
+make[4]: Entering directory '/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8133e.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_8133e.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8133e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8133e.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_8133e.dir/CheckFunctionExists.c.o  -o cmTC_8133e -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[4]: *** [CMakeFiles/cmTC_8133e.dir/build.make:87: cmTC_8133e] Error 1
+make[4]: Leaving directory '/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_8133e/fast] Error 2
+make[3]: Leaving directory '/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-build/CMakeFiles/CMakeTmp'
+
+

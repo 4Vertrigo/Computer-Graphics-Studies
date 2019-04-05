@@ -1,0 +1,16 @@
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/rebuild_cache.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/glm.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/projeto1CPP.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/projeto1C.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/demo.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/glfw.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/edit_cache.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/external/glad/CMakeFiles/rebuild_cache.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/external/glad/CMakeFiles/glad.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/external/glad/CMakeFiles/edit_cache.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/cpp_src/CMakeFiles/rebuild_cache.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/cpp_src/CMakeFiles/cg2019cpp.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/cpp_src/CMakeFiles/edit_cache.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/c_src/CMakeFiles/rebuild_cache.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/c_src/CMakeFiles/cg2019c.dir
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/c_src/CMakeFiles/edit_cache.dir

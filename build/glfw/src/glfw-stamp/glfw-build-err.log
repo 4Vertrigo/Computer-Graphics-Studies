@@ -1,0 +1,7 @@
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw/src/linux_joystick.c: In function ‘_glfwInitJoysticksLinux’:
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw/src/linux_joystick.c:224:46: warning: ‘%s’ directive output may be truncated writing up to 255 bytes into a region of size 9 [-Wformat-truncation=]
+             snprintf(path, sizeof(path), "%s/%s", dirname, entry->d_name);
+                                              ^~
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw/src/linux_joystick.c:224:13: note: ‘snprintf’ output between 12 and 267 bytes into a destination of size 20
+             snprintf(path, sizeof(path), "%s/%s", dirname, entry->d_name);
+             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,13 @@
+# Target labels
+ glfw
+# Source files and their labels
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/glfw
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/glfw.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/CMakeFiles/glfw-complete.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-stamp/glfw-install.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-stamp/glfw-mkdir.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-stamp/glfw-download.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-stamp/glfw-update.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-stamp/glfw-patch.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-stamp/glfw-configure.rule
+/home/vertrigo/Desktop/OPENGL/icmc-cg/build/glfw/src/glfw-stamp/glfw-build.rule
